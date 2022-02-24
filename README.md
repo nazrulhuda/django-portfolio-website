@@ -14,4 +14,3 @@ GETTING STARTED
 3 - Create superuser
     python manage.py createsuperuser
     
-![](/img1.png)
